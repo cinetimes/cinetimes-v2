@@ -1,0 +1,1 @@
+{"errors":[{"message":"Variable \"$recommendations\" got invalid value []; Expected type String; String cannot represent an array value: []","locations":[{"line":3,"column":3}]}],"pageContext":{"recommendations":[],"slug":"le-dernier-samourai"}}
